@@ -9,6 +9,15 @@ I turn Claude Code, Cursor, and MCP servers into daily-driver productivity tools
 
 ---
 
+## 📊 GitHub Stats
+
+<p>
+  <img alt="Ikeli's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ikeli0320&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikeli0320&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ```
