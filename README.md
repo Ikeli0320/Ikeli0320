@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner/banner.svg" alt="Ikeli — AI Full-Stack Developer, Vibe Coding Practitioner, Founder of Mltech" width="100%" />
+</p>
+
 # 👋 Hi, I'm Ikeli
 
 **AI Full-Stack Developer ｜ Vibe Coding Practitioner ｜ Founder of Mltech**
