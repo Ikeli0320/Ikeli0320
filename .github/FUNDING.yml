@@ -1,8 +1,10 @@
-# 設定 GitHub Sponsor 按鈕
+# GitHub Sponsor 按鈕設定
 # 詳見: https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
 
+custom: ['https://mltech.tw']
+
+# 其他選項（取消註解啟用）:
 # github: [Ikeli0320]                      # GitHub Sponsors（需先到 https://github.com/sponsors 申請）
-# patreon: your-patreon-username           # Patreon
-# ko_fi: your-ko-fi-username               # Ko-fi
-# buy_me_a_coffee: your-username           # Buy Me a Coffee
-# custom: ['https://mltech.tw']            # 自訂連結（例如公司網站）
+# patreon: your-patreon-username
+# ko_fi: your-ko-fi-username
+# buy_me_a_coffee: your-username
